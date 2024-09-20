@@ -1,5 +1,5 @@
 Time is Time v1.0 (tit.py)
-Desarrollado y testeado en Xubuntu 20.04.06 LTS.
+Desarrollado y testeado en Xubuntu 20.04.6 LTS.
 
 Time is Time (tit.py) es una aplicación diseñada para gestionar el tiempo de manera sencilla y eficiente.
 Ofrece tres funcionalidades principales: cronómetro, temporizador regresivo y alarma horaria,
