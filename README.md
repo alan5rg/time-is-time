@@ -1,3 +1,11 @@
+Time is Time v6.0 (titNG.6.0.py)
+
+Se agrega la solapa de "Hora Actual", donde además de la hora se puede ver el numero y día de la
+senama, acopañados de una frase ques se actualiza cada 15 seg.
+
+Se realizan algunos cambios en la estetica del diseño de la app.
+
+
 Time is Time v1.0 (tit.py)
 
 Desarrollado y testeado en Xubuntu 20.04.6 LTS.
