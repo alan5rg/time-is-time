@@ -1,9 +1,18 @@
+Time is Time v6.1 (tit.NG61.py)
+
+Se Agrega traductor a las frases y una nueva solapa para las donaciones.
+NG61 hace referencia al cumulo estelar, a una conexión con el tiempo universal
+y la abundancia. Pero tambien son las iniciales de las dos IA's que colaboraron
+en el desarrollo y documentación del código. NOvaPy y Grok
+
+
 Time is Time v6.0 (titNG.6.0.py)
 
 Se agrega la solapa de "Hora Actual", donde además de la hora se puede ver el numero y día de la
 senama, acopañados de una frase ques se actualiza cada 15 seg.
 
 Se realizan algunos cambios en la estetica del diseño de la app.
+
 
 
 Time is Time v1.0 (tit.py)
