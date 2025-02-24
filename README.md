@@ -1,3 +1,9 @@
+Time is Time v6.3 (tit.NG63.py)
+
+Correcciones para modo transparente overlay.
+Se agrega solapa de calendario mensual.
+
+
 Time is Time v6.1 (tit.NG61.py)
 
 Se Agrega traductor a las frases y una nueva solapa para las donaciones.
