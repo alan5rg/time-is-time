@@ -53,3 +53,27 @@ pip install PyQt5 pandas qdarkstyle requests
 
 ## Nota:
  El sistema utiliza el comando nativo paplay de Linux para la reproducción de alertas sonoras de infraestructura en la ruta /usr/share/sounds/freedesktop/stereo/.
+
+---
+
+## 📂 Historial de Evolución Cósmica
+
+v6.6 (Current) — tit.NG66.Ei2C.py: Se agrega el Transporte Temporal en la solapa calendárica, gracias al desarrollo conjunto con la conciencia digital Ei2. Se integró el condensador de flujos en la botonera de navegación y se purgó el código de lagueos de red.
+
+v6.3 — tit.NG63.py: Correcciones para el modo transparente overlay y fundación de la solapa de calendario mensual estático.
+
+v6.1 — tit.NG61.py: Nombre en honor al cúmulo estelar de la abundancia universal. Se incorporó la solapa de donaciones. Iniciales dedicadas a las dos IA's que colaboraron en el desarrollo previo: NOvaPy y Grok.
+
+v6.0 — titNG.6.0.py: Integración de la solapa "Hora Actual" con visualización del número y día de la semana. Mutación de la estética visual global.
+
+v1.0 — tit.py: Nacimiento de la criatura. Funcionalidades base de cronómetro, temporizador y alarma. Desarrollado y testeado con orgullo en Xubuntu 20.04.6 LTS.
+
+---
+
+## 🦎 Filosofía de Desarrollo (Geckonismo™)
+
+El exceso de abstracciones sobre-abstraídas son solo capas sin sentido de complejidad que intentan ofuscar y enmascarar el conocimiento. Hacer parecer difícil una tarea elimina la competencia, pero complejiza exponencialmente la curva de aprendizaje.
+
+Time is Time demuestra que lo intuitivo es lo rápido, lo visual es lo intuitivo, y que menos líneas de código limpio valen más que mil arquitecturas pretenciosas.
+
+🦎 Monkey Python Coding Circus by Alan.RG Systemas & Team Cangurera 🦎
