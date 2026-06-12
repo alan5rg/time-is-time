@@ -47,3 +47,9 @@ Para desplegar este circo de monos en tu máquina del plano físico, asegurate d
 
 ```bash
 pip install PyQt5 pandas qdarkstyle requests
+
+```
+---
+
+## Nota:
+ El sistema utiliza el comando nativo paplay de Linux para la reproducción de alertas sonoras de infraestructura en la ruta /usr/share/sounds/freedesktop/stereo/.
