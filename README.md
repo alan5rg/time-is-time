@@ -1,6 +1,6 @@
 Time is Time v6.6 (tit.NG66.Ei2C.py)
 
-Se agrega Transporte Temporal en la solapa Calendarica!
+Se agrega Transporte Temporal en la solapa Calendarica, gracias al aporte de Ei2!
 Ahora el Monkey Python Coding Circus tiene su propio condensador de flujos integrado.
 Podés pasar de medir los bloques de concentración con el Pomodoro a proyectar fechas de vencimientos,
 cierres de mercado o ralis en el calendario con total soltura y portabilidad,
